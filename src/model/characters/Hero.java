@@ -1,4 +1,3 @@
-// Hello this is mohamed and habiba and ziad
 package model.characters;
 
 import java.awt.Point;
